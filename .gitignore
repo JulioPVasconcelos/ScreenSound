@@ -363,5 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Ignore Secrets
-Modelos/Key.cs
 /ScreenSound/Modelos/Key.cs
